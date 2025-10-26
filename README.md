@@ -22,7 +22,7 @@ Before you begin, ensure you have the following installed on your machine:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/abhishekmardiya/next-js-16-clean.git
+git clone https://github.com/abhishekmardiya/next-js-16-clean-app.git
 ```
 
 ### 2. Install dependencies
